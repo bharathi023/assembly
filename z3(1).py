@@ -1,3 +1,5 @@
+;program to print solutions for this quadratic equation
+
 from z3 import *
 x = Real('x')
 s = Solver()
